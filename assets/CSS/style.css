@@ -1,0 +1,81 @@
+.navbar--color {
+  background-color: #121619 !important;
+}
+
+.navbar-brand--modify {
+  margin-left: 10%;
+}
+
+.nav {
+  margin-right: 10%;
+}
+
+.nav-item {
+  padding: 10px;
+  color: white;
+}
+
+.header--modify {
+  text-align: center;
+  background-image: url(../img/post-image.jpg);
+  color: white;
+  background-size: cover;
+  font-family: "Playfair Display";
+}
+.header--modify h1 {
+  padding: 10%;
+}
+
+.arrows--modify {
+  font-size: 50px;
+}
+
+.content--modify {
+  padding-top: 40px;
+}
+
+.content__first-icon--modify {
+  padding: 5px;
+  color: white;
+  background-color: gray;
+  font-size: 30px;
+  width: 55px;
+  text-align: center;
+  border-radius: 100%;
+  margin-right: 10px;
+}
+
+.content__second-icon--modify {
+  padding: 5px;
+  color: white;
+  background-color: gray;
+  font-size: 30px;
+  width: 55px;
+  text-align: center;
+  border-radius: 100%;
+  margin-right: 10px;
+}
+
+.content__third-icon--modify {
+  padding: 5px;
+  color: white;
+  background-color: gray;
+  font-size: 30px;
+  width: 55px;
+  text-align: center;
+  border-radius: 100%;
+  margin-right: 10px;
+}
+
+@media (max-width: 700px) {
+  h1 {
+    font-size: 45px;
+  }
+}
+@media (min-width: 700px) {
+  h1 {
+    font-size: 60px;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */
