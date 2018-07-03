@@ -1,18 +1,16 @@
-.navbar--color {
+.navbar-nav--modify {
+  margin-left: 60%;
+}
+
+#logo {
+  width: 70px;
+  margin-left: 40px;
+}
+
+.navbar--modify {
+  width: 100%;
+  text-align: right;
   background-color: #121619 !important;
-}
-
-.navbar-brand--modify {
-  margin-left: 10%;
-}
-
-.nav {
-  margin-right: 10%;
-}
-
-.nav-item {
-  padding: 10px;
-  color: white;
 }
 
 .header--modify {
